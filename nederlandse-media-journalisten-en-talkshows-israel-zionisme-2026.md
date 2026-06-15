@@ -35,19 +35,10 @@ Hoewel er geen bewijs is dat commerciële adverteerders druk hebben uitgeoefend 
 
 ## 3. Alternatieve Media, Podcasts en het Digitale Ecosysteem (2024-2026)
 
-Door het groeiende wantrouwen jegens traditionele nieuwsmedia is er een bloeiend alternatief ecosysteem ontstaan dat fungeert als een ongefilterde echokamer.
+Door het groeiende wantrouwen jegens traditionele nieuwsmedia is er een bloeiend alternatief ecosysteem ontstaan dat fungeert als een ongefilterde echokamer en mobilisatie-instrument.
 
-### 3.1 Onafhankelijke Platforms en Podcasts
-*   **De Nieuwe Wereld (DNW):** Dit door filosoof Ad Verbrugge opgerichte YouTube-platform biedt lange, diepgaande interviews. DNW fungeert als intellectueel platform waar kritische analyses over de rol van Hamas, internationale verdragen en de geopolitieke doelstellingen van Israël buiten de waan van de dag worden besproken.
-*   **BLCKBX:** Geleid door Flavio Pasquino. Dit platform is uitgesproken kritisch op gevestigde media en politiek. In hun uitzendingen over het conflict komen regelmatig critici van het Israëlische beleid aan het woord (waaronder vertegenwoordigers van *Een Ander Joods Geluid*). BLCKBX focust sterk op het ontmaskeren van wat zij zien als eenzijdige westerse propaganda en censuur.
-*   **The Rights Forum Podcast:** Een belangrijk pro-Palestijns audiokanaal, gepresenteerd door onder andere Xander de Rijk. Hierin komen linkse intellectuelen, historici (zoals Ilan Pappé) en juristen aan het woord om de bezetting en de Nederlandse medeplichtigheid daaraan te fileren.
-*   **De Ongelooflijke Podcast (EO/NPO Radio 1):** Gepresenteerd door David Boogerd. Deze podcast bespreekt regelmatig de religieuze, historische en morele dimensies van het conflict met gasten als Jan van Benthem (buitenlandcommentator) en Beatrice de Graaf, wat met name resoneert bij de confessionele en conservatieve achterban.
-*   **Minuut voor Allah:** Een invloedrijk online platform gericht op islamitische jongeren, dat via TikTok, Instagram en Spotify religieus en maatschappelijk kader biedt rond het leed in Gaza, en fungeert als alternatieve nieuwsbron voor deze demografie.
-
-### 3.2 Digitale Coördinatie en "Swarms" (Telegram & WhatsApp)
-Sociale media-algoritmen (met name Meta en TikTok) onderdrukken politiek geladen content over Gaza via "shadowbanning". Hierdoor zijn activistische groepen gemigreerd naar gecodeerde kanalen:
-*   **Pro-Palestijnse mobilisatie:** Grassroots netwerken (zoals *Plant een Olijfboom*, *PGNL* en het *Nederlands Palestina Komitee*) gebruiken besloten WhatsApp- en Telegramgroepen om bliksemacties (sit-ins op stations, blokkades van universiteiten) te coördineren. Tijdens de gewelddadige escalaties in Amsterdam rondom de wedstrijd Ajax - Maccabi Tel Aviv in november 2024 speelden besloten groepen een cruciale rol bij de fysieke coördinatie van confrontaties, volledig buiten het zicht van de politie en reguliere media.
-*   **Pro-Israëlische digitale defensie:** Organisaties zoals *StandWithUs Nederland* sturen via gesloten WhatsApp-kanalen achterbannen aan om gecoördineerd te reageren op media-artikelen, klachten in te dienen bij redacties, en massale e-mailcampagnes te richten aan universiteitsbesturen om pro-Palestijnse demonstraties of academische boycotmaatregelen te dwarsbomen. Monitoring door de European Legal Support Center (ELSC) laat zien dat deze netwerken systematisch proberen kritiek op Israël te framen als antisemitisme om juridische of disciplinaire stappen af te dwingen.
+Voor een gedetailleerd, ongecensureerd en diepgravend overzicht van de alternatieve platforms (*De Nieuwe Wereld*, *BLCKBX*, *De Balie*), invloedrijke podcasts (*The Rights Forum*, *De Ongelooflijke Podcast*, *Minuut voor Allah*), de *"Niet in mijn naam"* influencer-campagne, en de digitale coördinatie op WhatsApp en Telegram (inclusief taxichauffeurs-netwerken en *StandWithUs*), zie het specifieke dossier:
+👉 **[Nederlandse Alternatieve Media, Podcasts en Influencers (2026)](nederlandse-alternatieve-media-podcasts-en-influencers-israel-2026.md)**.
 
 ---
 
