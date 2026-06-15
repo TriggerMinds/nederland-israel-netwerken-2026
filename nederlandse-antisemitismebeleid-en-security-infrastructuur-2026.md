@@ -52,6 +52,8 @@ Het *Veiligheidsfonds voor Joodse instellingen* is het voornaamste instrument.
 *   **Budget 2025:** Structureel **€1,3 miljoen**. Wegens overtekening en hoge beveiligingskosten in 2025 konden niet alle 25 aanvragende organisaties volledig worden gecompenseerd.
 *   **Verhoging 2026:** Na geweldsincidenten en explosies in het voorjaar van 2026 (o.a. in Rotterdam en Amsterdam) kondigde demissionair minister David van Weel (JenV) een extra injectie aan van **€700.000**.
 *   **Totaalbudget 2026:** **€2,0 miljoen** voor het Veiligheidsfonds, plus een flankerend budget van €350.000 specifiek voor veiligheid van Joodse studenten in het hoger onderwijs.
+*   **Tactische & Technologische Samenwerking:** Voor een overzicht van de tactische trainingsmethoden (zoals Krav Maga en gedragsprofilering SDR) en de inzet van Israëlische forensische en surveillance-technologie (Cellebrite, Pegasus) door Nederlandse diensten, zie het specifieke dossier:
+    👉 **[Nederlandse Politie, Veiligheidsdiensten en Tactische Samenwerking met Israël (2026)](nederlandse-politie-veiligheidsdiensten-en-tactische-samenwerking-israel-2026.md)**.
 
 ---
 
